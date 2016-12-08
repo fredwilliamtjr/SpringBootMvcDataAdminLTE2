@@ -1,0 +1,8 @@
+br\com\fwtj\springbootmvcdataadminlte2\Main.class
+br\com\fwtj\springbootmvcdataadminlte2\controle\InicioControle.class
+br\com\fwtj\springbootmvcdataadminlte2\repositorio\Pessoas.class
+br\com\fwtj\springbootmvcdataadminlte2\controle\PessoaControle.class
+br\com\fwtj\springbootmvcdataadminlte2\modelo\Pessoa.class
+br\com\fwtj\springbootmvcdataadminlte2\servico\PessoaServico.class
+br\com\fwtj\springbootmvcdataadminlte2\ServletInitializer.class
+br\com\fwtj\springbootmvcdataadminlte2\Main$MvcConfig.class
